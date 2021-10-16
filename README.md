@@ -1,9 +1,22 @@
+## Navigation of files tree...
+
+You can even make data analysis projects. Just follow the tutorial and enjoy!
+
+
+Special thanks to [Jack Parmer](https://github.com/jackparmer) for making ```mountain.csv```
+
+```bash
+|____Plotly_6.py
+|____Plotly_2.py
+|____final.py
+|____Plotly_3.py
+|____volcano.csv
+|____Plotly_4.py
+|____Plotly_5.py
+|____Plotly_1.py
+```
 ---
-name: '3D Mountain'
-description: 'Create a 3D mountain with Python data viz tools'
-author: '@shivesh01'
-img: 'https://cloud-a08hob7s0.vercel.app/0workshop1.gif'
----
+Tutorial begins...
 
 Mountains are fun! Here, check out this mountain on Google Maps:
 
